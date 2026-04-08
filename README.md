@@ -1,37 +1,21 @@
+# 💫 About Me:
+AI/ML Engineer specializing in Generative AI, Agentic AI Systems, and NLP with hands-on experience<br>building production-ready ML pipelines, LLM-powered applications, and multimodal AI solutions.<br>Proficient in LangChain, LangGraph, RAG architectures, and deploying scalable AI systems on cloud<br>platforms including AWS and Azure. Strong foundation in deep learning frameworks (TensorFlow,<br>PyTorch) with expertise in prompt engineering, vector databases, and MLOps best practices.
 
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shreyas Panda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Shreyas Panda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaspandawork@gmail.com) 
 
-# Hi, I'm Shreyas Panda! 👋
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shreyas-panda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shreyas-panda&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-panda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-🌟 **Final-year engineering student** specializing in **Artificial Intelligence (AI)** and **Data Science**. I’m passionate about applying machine learning and AI to solve real-world problems.
-
----
-
-## 🛠️ Skills & Technologies  
-- **Programming**: Python, R  
-- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK  
-- **Databases**: MySQL, MongoDB  
-- **Data Visualization**: PowerBI, Tableau  
-
----
-
-## 🔬 Projects  
-- **USP Drug Classification**: Achieved 91% accuracy using Decision Tree Classifier.  
-- **Stock Price Prediction**: Built predictive models using LSTM and Gradient Boosting.  
-- **Yoga Pose Detection**: Developed a real-time pose classifier with MediaPipe and OpenPose.  
-- **Resume Parser**: NLP-powered tool for extracting structured information from resumes.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shreyas-panda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Shreyas-panda&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Experience  
-- **Data Analyst Intern, WNS Global Services** (Jun '24 - Dec '24): Leveraged data modeling and analytics to optimize HR processes.  
-
----
-
-## 📫 Connect with Me  
-- **Email**: [shreyaspandawork@gmail.com](mailto:shreyaspandawork@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/shreyas-panda](https://www.linkedin.com/in/shreyas-panda)  
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
